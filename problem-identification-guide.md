@@ -31,6 +31,13 @@
 | "shortest path", "number of islands" | Graph BFS/DFS |
 | "range sum", "subarray sum equals k" | Prefix Sum |
 | "activity selection", "minimum platforms" | Greedy |
+| "shortest path weighted graph", "network delay" | Shortest Path (Dijkstra/Bellman-Ford) |
+| "sliding window maximum/minimum" | Monotonic Queue |
+| "range sum query + update", "mutable range" | Segment Tree / Fenwick Tree |
+| "find pattern in string", "repeated substring" | String Matching (KMP/Rabin-Karp) |
+| "design LRU cache", "implement data structure" | Design Problems |
+| "GCD", "count primes", "mod 10^9+7" | Math & Number Theory |
+| "count inversions", "split into halves to solve" | Divide & Conquer |
 
 ---
 
