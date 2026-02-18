@@ -44,6 +44,7 @@
 
 | Guide | Description |
 |-------|-------------|
+| [DSA Conquest Roadmap](dsa-roadmap.md) | **START HERE** — 10-week path from Easy → Hard with daily problems |
 | [Problem Identification Guide](problem-identification-guide.md) | How to figure out which pattern to use |
 | [Complexity Cheatsheet](complexity-cheatsheet.md) | Big-O reference for all algorithms & data structures |
 | [Go DSA Tips](go-dsa-tips.md) | Go-specific tricks, gotchas, and templates |
